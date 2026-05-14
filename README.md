@@ -2,7 +2,7 @@
 
 1. Advanced BLE spam, as of 4/24/2026, BLE Spam doesn't work as intented on Bruce Firmware. I'm changing that!
 
-2. Better Deauthing for wifis, currently deauthing wifis also doesnt work. This is mostly because newer wifis use 802.11w, which 90% of the time blocks deauth attempts unless misconfigured.
+2. Better Deauthing for wifis, currently deauthing wifis also doesnt work. This is mostly because newer wifis use WPA2 + WPA3 or WPA3, which 90% of the time blocks deauth attempts unless misconfigured. -With WPA2 you can do anything-
 
 3. Better NFC support. Currently NFC support is really bad on Bruce Firmware, i'm changing that!
 
